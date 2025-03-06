@@ -1,6 +1,6 @@
 # Jogo da Memória 🃏  
 
-Um jogo da memória para colaborar,  desenvolvido com **HTML, CSS e JavaScript** por @guilhermeonrails
+Um jogo da memória para colaborar,  desenvolvido com **HTML, CSS e JavaScript** por @guilhermeonrails no minicurso git e github Alura
 
 ## 🚀 Como rodar o projeto  
 
